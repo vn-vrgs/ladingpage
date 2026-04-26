@@ -1,0 +1,48 @@
+
+{
+    margin: 0;
+    padding: 0;
+}
+
+.portada{
+    background-image: url("../img/portada.png");   
+    background-size: cover;
+    padding: 50px;
+    color: #fff;
+    text-align: center;
+}
+
+#modelos{
+    padding-top: 25px;
+    padding-left: 5%;
+}
+
+h3{
+    margin-bottom: 5px;
+}
+
+h2{
+    text-align: right;
+}
+
+.modelo{
+    margin-bottom: 20px;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+td{
+    padding: 75px;
+}
+
+footer{
+    background-color: beige;
+    padding: 20px;
+    border: 2px solid brown;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
